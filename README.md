@@ -1,5 +1,5 @@
 # PongGame
 A pong game made with unity. Follwed tutorial from Awesome Inc U: https://www.awesomeincu.com/tutorials/unity-pong/
 
-**[Play on Web!](https://github.com/KayleneRameka/PongGame)**
+**[Play on Web!](https://github.com/KayleneRameka/pong.github.io)**
 
