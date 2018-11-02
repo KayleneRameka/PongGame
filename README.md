@@ -8,7 +8,8 @@ In the proposed study I will be investigating the usage of a game engine (Unity)
 
 **Game Creation**<br />
 
-*[Play on Web!](http://KayleneRameka.github.io/)*
+*[Play on Web!](http://KayleneRameka.github.io/)* <br />
+*may take a while to load
 
 ###### Controls: <br />
 Left Bar - Use W and S to move up and down <br />
