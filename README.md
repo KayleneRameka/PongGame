@@ -8,6 +8,9 @@ In the proposed study I will be investigating the usage of a game engine (Unity)
 
 **Game Creation**<br />
 
+~[Screenshot](http://i.imgur.com/GQcmfQY.png)~
+
+
 *[Play on Web!](http://KayleneRameka.github.io/)* <br />
 *may take a while to load
 
